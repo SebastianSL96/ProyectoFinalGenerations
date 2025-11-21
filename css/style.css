@@ -1,0 +1,17 @@
+.navbar-brand {
+  font-size: 1.7rem;
+  letter-spacing: 1px;
+}
+
+.nav-link {
+  transition: color 0.2s;
+}
+
+.nav-link:hover {
+  color: #1e3544; 
+}
+
+.text-brand {
+  color: #1e3544 !important;
+}
+
